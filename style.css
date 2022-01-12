@@ -1,0 +1,25 @@
+head{
+text-align: center;
+background-color: aquamarine;
+}
+
+.my_nav_bar{
+position:sticky;
+top:0;
+z-index:9999;
+}
+
+input{
+background-color:azure;
+}
+
+#schoolname{
+text-align:center;
+}
+
+.container{
+background-color:lightyellow;
+}
+
+
+
